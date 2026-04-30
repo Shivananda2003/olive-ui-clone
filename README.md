@@ -2,6 +2,9 @@
 
 A pixel-perfect recreation of the Olive landing page hero section, built using React (Vite) and Tailwind CSS.
 
+## 🚀 Live Demo
+https://olive-ui-clone.vercel.app
+
 ## 🛠 Tech Stack
 - React (Vite)
 - Tailwind CSS
